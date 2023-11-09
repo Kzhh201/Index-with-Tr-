@@ -1,0 +1,77 @@
+body    {
+    background-color:rgba(220, 246, 254, 0.537);
+}
+
+/*Navecation Bar*/
+nav     {
+    background-color:cadetblue;
+    height: 80px;
+    font-size: 30px;
+    /*Aggect The Logo*/
+    align-items: center;
+    display: flex;
+}
+
+nav span    {
+    font-family: 'Young Serif', serif;
+    color: brown;
+    font-size: 40px;
+}
+
+nav a   {
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    margin-left: 50px;
+}
+
+nav a img   {
+    width: 60px;
+    height: 60px;
+}
+
+/*Main Content*/
+.container     {
+    margin:0 30px;
+}
+
+h3      {
+    font-size: 28px;
+    margin-left: 30px;
+    color: black;
+}
+
+.img-box img    {
+    width: 20%;
+    height: 230px;
+    margin:20px;
+    border-radius: 30px;
+}
+
+.img-box    {
+    text-align: center;
+}
+
+.menu      {
+    background-color: rgba(161, 161, 161, 0.371);
+    padding: 0 20px;
+}
+
+/*Footer*/
+footer      {
+    background-color:cadetblue;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.nav-link a {
+    text-decoration: none;
+    color: rgb(188, 238, 255);
+    font-size: 25px;
+    margin: 0 15px;
+}
+
+.icon .bi   {
+    color: rgb(188, 238, 255);
+    font-size: 37px;
+    margin: 0 15px;
+}
